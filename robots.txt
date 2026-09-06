@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.trinityglobalimpex.com/sitemap.xml
